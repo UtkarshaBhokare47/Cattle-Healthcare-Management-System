@@ -73,19 +73,19 @@ The main objectives of this project are:
 
 ## Use Case Diagram
 
-<p align="center"> <img src="assets/usecase diagram.png" width="750"> </p>
+<p align="center"> <img src="assets/usecase diagram.jpeg" width="750"> </p>
 
 ---
 
 ## Swimlane Activity Diagram
 
-<p align="center"> <img src="assets/swimlane diagram.png" width="750"> </p>---
+<p align="center"> <img src="assets/swimlane diagram.jpeg" width="750"> </p>---
 
 # 🖥️ System Prototype
 
 The prototype demonstrates the conceptual user interface for the cattle health management system.
 
-<p align="center"> <img src="assets/prototype.png" width="750"> </p>
+<p align="center"> <img src="assets/prototype.jpeg" width="750"> </p>
 ---
 
 # 📊 Power BI Dashboard
@@ -98,7 +98,7 @@ Features of the dashboard include:
 - Cattle health monitoring
 - Farm performance insights
 
-<p align="center"> <img src="assets/dashboard.png" width="750"> </p>
+<p align="center"> <img src="assets/dashboard.jpeg" width="750"> </p>
 ---
 
 # 🛠 Tools & Technologies Used
